@@ -1,0 +1,7 @@
+Record Type,Level 1 Account Code,Level 2 Account Code,Level 3 Account Code,Open?,Separate Invoice?,Account Description,Contract Expire,Date,PO Number,Salesman Code,Mail Attention,Mail Addr Line 1,Mail Addr Line 2,Mail Addr Line 3,Mail Addr Phone,Mail Addr Fax,Mail Addr Route,Pickup Contact,Pickup Addr Line 1,Pickup Addr Line 2,Pickup Addr Line 3,Pickup Addr Phone,Pickup Addr Fax
+AC,EVA05491,,,YES,YES,Biker Bay Paradise - Test,,,,,,,,L2 6RE,1111111111.0,,,,,,L2 6RE,,
+AC,EVA05492,,,YES,YES,Hotel California - Test,,,,,,,,CH1 5ER,2222222222.0,,,,,,CH1 5ER,,
+AC,TESTAC11,,,YES,YES,Pies 4 U - Test,,,,,,Hurst Lane,add2,"add3, West Midlands, DY4 9AB",1443222333.0,,,,Hurst Lane,add2,"add3, West Midlands, DY4 9AB",,
+AC,TESTAC12,TESTAC11,,YES,YES,Shed 52 Burger Bar - Test,,,,,,52 Boeuf Hachee,,,,,,,52 Boeuf Hachee,,,,
+AC,EVA05499,,,YES,YES,Vintage Car Swap - Test,,,,,,Unit 4 Aviation Park,add4,"add5, SP1 3EE",121426384.0,,,,Unit 4 Aviation Park,add4,"add5, SP1 3EE",,
+AC,EVA05497,,,YES,YES,Woolly Inc - Test,,,,,,woolly lane,,SK14 8NN,35765431.0,,,,woolly lane,,SK14 8NN,,
